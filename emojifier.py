@@ -9,7 +9,7 @@ while True:
     try:
         if 0 <= float(emoji_chance) <= 1:
             break
-    except: 
+    except:
         pass
     print("That is not a valid input you fool!")
 
